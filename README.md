@@ -13,7 +13,7 @@ This project aims to predict the condition of water wells in Tanzania to assist 
 
 **Functional**: The water point is fully operational with no repairs needed.
 
-**Functional but needs repair**: The water point is working but requires maintenance.
+**Functional but need repair**: The water point is working but requires maintenance.
 
 **Non-functional**: The water point is not operational.
 
